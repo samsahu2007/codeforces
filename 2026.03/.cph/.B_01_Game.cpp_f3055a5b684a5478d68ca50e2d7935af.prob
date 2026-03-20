@@ -1,0 +1,1 @@
+{"name":"Local: B_01_Game","url":"/workspaces/codeforces/2026.03/B_01_Game.cpp","tests":[{"id":1774020263934,"input":"3\n01\n1111\n0011","output":"DA\nNET\nNET"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/codeforces/2026.03/B_01_Game.cpp","group":"local","local":true}
